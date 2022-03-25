@@ -34,7 +34,7 @@ Of course, if it's not the coding gene sequence, just nucleotides, you could ent
 bioaider_mutation -i seq.fas -m single -d nt
 ```
 
-Note: sequences used for mutation analysis need to be aligned in advance, and BioAider_mutation does not provide functions for multiple sequence alignment. 
+**Note:** sequences used for mutation analysis need to be aligned in advance, and bioaider_mutation does not provide functions for multiple sequence alignment. 
 
 ### 2. Citation
 Zhi-Jian Zhou, Ye Qiu, Ying Pu, Xun Huang, Xing-Yi Ge*. BioAider: An efficient tool for viral genome analysis and its application in tracing SARS-CoV-2 transmission. Sustainable Cities and Society. 2020. DIO: 10.1016/j.scs.2020.102466.
