@@ -2,7 +2,7 @@
 This is a command-line interface (non-GUI) of mutation analysis in [BioAider](https://github.com/ZhijianZhou01/BioAider) software.
 
 ### 2. Install and run
-It's a no-installer, albeit a bit big, but it's the result of packaged software.
+It's a no-installer program (although it is a bit large, it is caused by the packaged software).
 How to run it? 
 You could switch to the directory of software, and check the help documentation (take linux system as an example):
 ```
