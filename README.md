@@ -13,7 +13,7 @@ $ ./bioaider_mutation -h
 Then, the program will output the following information:
 ```
 -------------------------------
-  Version: 1.423 (2022/03/24)
+  Version: 1.527 (2023/02/22)
   Author: Zhou Zhijian
 -------------------------------
 usage: bioaider_mutation [-h] [-i INPUT] [-m MODES] [-d DATA] [-t TABLE]
