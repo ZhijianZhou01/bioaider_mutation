@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/total)
-[![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/1.527/total?color=red&style=flat-square)](https://github.com/ZhijianZhou01/bioaider_mutation/releases/tag/1.527)
-![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/1.423/total?)
+[![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/V1.527/total?color=red&style=flat-square)](https://github.com/ZhijianZhou01/bioaider_mutation/releases/tag/V1.527)
+![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/V1.423/total?)
 
 
 ### 1. Introduction
