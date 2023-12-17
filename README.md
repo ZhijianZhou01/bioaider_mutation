@@ -2,6 +2,9 @@
 [![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/V1.527/total?color=red&style=flat-square)](https://github.com/ZhijianZhou01/bioaider_mutation/releases/tag/V1.527)
 ![](https://img.shields.io/github/downloads/ZhijianZhou01/bioaider_mutation/V.1.423/total?)
 
+![](https://img.shields.io/badge/System-Windows/Linux/MacOS-green.svg)
+[![](https://img.shields.io/badge/Doi-10.1016/j.scs.2020.102466-yellow.svg)](https://doi.org/Doi:10.1016/j.scs.2020.102466) 
+
 
 ### 1. Introduction
 This is a command-line interface (non-GUI) of mutation analysis in [BioAider](https://github.com/ZhijianZhou01/BioAider) software.
